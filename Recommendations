@@ -1,0 +1,13 @@
+Recomendations:
+This is a list of recommendations to make this project better 
+(UI, UX, Performance, Security, Architecture, Bug fix, New Feature, ...etc )
+
+// Please make your recommendations as clear as possible with only a few sentences 
+
+1. the login page has an static authentication so even when the user change the password it would still 123123
+
+2.the new password button has no ng-click attribute in it
+
+3.the profile image have rando height and width depending on the image
+
+4.
